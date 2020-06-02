@@ -37,7 +37,7 @@ python-jenkins==1.4.0
 python-jsonrpc-server==0.3.4
 python-language-server==0.31.10
 pytz==2020.1
-requests==2.14.2
+requests==2.20.0
 rope==0.16.0
 selenium==3.0.2
 six==1.14.0
