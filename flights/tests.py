@@ -7,7 +7,7 @@ from .models import Airport, Flight, Passenger
 class ModelsTestCase(TestCase):
     def setUp(self):
         #Create airports
-        a1= Airport.objects.create(code="AAA", city="City A")
+        a1= Airport.objects.create(code="AAB", city="City A")
         a2 = Airport.objects.create(code="BBB", city="City B")
 
         #Create flights.
